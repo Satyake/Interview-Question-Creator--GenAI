@@ -1,0 +1,84 @@
+Question: 1. What is the main goal of the 4th SDG Youth Summer Camp Resource Document?\nAnswer: The main goal of the 4th SDG Youth Summer Camp Resource Document is to enable participants to get to know the 17 Sustainable Development Goals (SDGs), explore the areas covered by each goal, identify targets of interest, and identify synergies between the SDGs and chosen targets.\n--------------------------------------------------\n\nQuestion: 2. What are the targets under Goal 1: End poverty in all its forms everywhere?\nAnswer: The targets under Goal 1: End poverty in all its forms everywhere are:
+
+1. Target 1.1: By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day.
+2. Target 1.2: By 2030, reduce at least by half the proportion of men, women, and children of all ages living in poverty in all its dimensions according to national definitions.
+3. Target 1.3: Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable.
+4. Target 1.4: By 2030, ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology, and financial services, including microfinance.
+5. Target 1.5: By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social, and environmental shocks and disasters.
+6. Target 1.a: Ensure significant mobilization of resources from a variety of sources, including through enhanced development cooperation, in order to provide adequate and predictable means for developing countries, in particular least developed countries, to implement programs and policies to end poverty in all its dimensions.
+7. Target 1.b: Create sound policy frameworks at the national, regional, and international levels, based on pro-poor and gender-sensitive development strategies, to support accelerated investment in poverty eradication actions.\n--------------------------------------------------\n\nQuestion: 3. What are the targets under Goal 2: End hunger, achieve food security and improved nutrition and promote sustainable agriculture?\nAnswer: The targets under Goal 2 are as follows:
+
+1. By 2030, end hunger and ensure access by all people to safe, nutritious, and sufficient food all year round.
+2. By 2030, end all forms of malnutrition, including achieving internationally agreed targets on stunting and wasting in children under 5 years of age.
+3. By 2030, double the agricultural productivity and incomes of small-scale food producers, particularly women, indigenous peoples, family farmers, pastoralists, and fishers.
+4. By 2030, ensure sustainable food production systems and implement resilient agricultural practices that increase productivity and production.
+5. By 2020, maintain the genetic diversity of seeds, cultivated plants, and farmed and domesticated animals.
+6. Increase investment in rural infrastructure, agricultural research, and extension services.
+7. Correct and prevent trade restrictions and distortions in world agricultural markets.
+8. Adopt measures to ensure the proper functioning of food commodity markets and facilitate timely access to market information.\n--------------------------------------------------\n\nQuestion: 4. What are the targets under Goal 3: Ensure healthy lives and promote well-being for all at all ages?\nAnswer: The targets under Goal 3: Ensure healthy lives and promote well-being for all at all ages are:
+1. By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births.
+2. By 2030, end preventable deaths of newborns and children under 5 years of age.
+3. By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases.
+4. By 2030, reduce by one third premature mortality from non-communicable diseases.
+5. Strengthen the prevention and treatment of substance abuse, including narcotic drug abuse and harmful use of alcohol.
+6. By 2020, halve the number of global deaths and injuries from road traffic accidents.
+7. By 2030, ensure universal access to sexual and reproductive health-care services.
+8. Achieve universal health coverage.
+9. By 2030, substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination.
+10. Strengthen the implementation of the World Health Organization Framework Convention on Tobacco Control in all countries, as appropriate.
+11. Support the research and development of vaccines and medicines for the communicable and non-communicable diseases that primarily affect developing countries, provide access to affordable essential medicines and vaccines.
+12. Substantially increase health financing and the recruitment, development, training and retention of the health workforce in developing countries, especially in least developed countries and small island developing States.
+13. Strengthen the capacity of all countries, in particular developing countries, for early warning, risk reduction and management of national and global health risks.\n--------------------------------------------------\n\nQuestion: 5. What are the targets under Goal 4: Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all?\nAnswer: The targets under Goal 4: Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all are:
+
+1. By 2030, ensure that all girls and boys complete free, equitable, and quality primary and secondary education leading to relevant and effective learning outcomes.
+2. By 2030, ensure that all girls and boys have access to quality early childhood development, care, and pre-primary education so that they are ready for primary education.
+3. By 2030, ensure equal access for all women and men to affordable and quality technical, vocational, and tertiary education, including university.
+4. By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs, and entrepreneurship.
+5. By 2030, eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples, and children in vulnerable situations.
+6. By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy.
+7. By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship, and appreciation of cultural diversity and of culture’s contribution to sustainable development.\n--------------------------------------------------\n\nQuestion: 6. What are the targets under Goal 5: Achieve gender equality and empower all women and girls?\nAnswer: The targets under Goal 5: Achieve gender equality and empower all women and girls are:
+
+1. End all forms of discrimination against all women and girls everywhere.
+2. Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation.
+3. Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation.
+4. Recognize and value unpaid care and domestic work through the provision of public services, infrastructure, and social protection policies and the promotion of shared responsibility within the household and the family as nationally appropriate.
+5. Ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic, and public life.
+6. Ensure universal access to sexual and reproductive health and reproductive rights as agreed in accordance with the Programme of Action of the International Conference on Population and Development and the Beijing Platform for Action and the outcome documents of their review conferences.
+7. Undertake reforms to give women equal rights to economic resources, as well as access to ownership and control over land and other forms of property, financial services, inheritance, and natural resources, in accordance with national laws.
+8. Enhance the use of enabling technology, in particular information and communications technology, to promote the empowerment of women.
+9. Adopt and strengthen sound policies and enforceable legislation for the promotion of gender equality and the empowerment of all women and girls at all levels.\n--------------------------------------------------\n\nQuestion: 7. What are the targets under Goal 6: Ensure availability and sustainable management of water and sanitation for all?\nAnswer: The targets under Goal 6: Ensure availability and sustainable management of water and sanitation for all are:
+
+1. Target 6.1: By 2030, achieve universal and equitable access to safe and affordable drinking water for all.
+2. Target 6.2: By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations.
+3. Target 6.3: By 2030, improve water quality by reducing pollution, eliminating dumping, and minimizing the release of hazardous chemicals and materials, halving the proportion of untreated wastewater, and substantially increasing recycling and safe reuse globally.
+4. Target 6.4: By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity.
+5. Target 6.5: By 2030, implement integrated water resources management at all levels, including through transboundary cooperation as appropriate.
+6. Target 6.6: By 2020, protect and restore water-related ecosystems, including mountains, forests, wetlands, rivers, aquifers, and lakes.
+7. Target 6.a: By 2030, expand international cooperation and capacity-building support to developing countries in water- and sanitation-related activities and programs.\n--------------------------------------------------\n\nQuestion: 8. What are the targets under Goal 7: Ensure access to affordable, reliable, sustainable and modern energy for all?\nAnswer: The targets under Goal 7: Ensure access to affordable, reliable, sustainable and modern energy for all are:
+
+1. By 2030, ensure universal access to affordable, reliable and modern energy services.
+2. By 2030, increase substantially the share of renewable energy in the global energy mix.
+3. By 2030, double the global rate of improvement in energy efficiency.
+4. By 2030, enhance international cooperation to facilitate access to clean energy research and technology, including renewable energy, energy efficiency, and advanced and cleaner fossil-fuel technology, and promote investment in energy infrastructure and clean energy technology.
+5. By 2030, expand infrastructure and upgrade technology for supplying modern and sustainable energy services for all in developing countries, in particular least developed countries, small island developing States, and landlocked developing countries, in accordance with their respective programs of support.\n--------------------------------------------------\n\nQuestion: 9. What are the targets under Goal 8: Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all?\nAnswer: The targets under Goal 8 are:
+
+1. Sustain per capita economic growth in accordance with national circumstances.
+2. Achieve higher levels of economic productivity through diversification, technological upgrading, and innovation.
+3. Promote development-oriented policies that support productive activities, decent job creation, entrepreneurship, creativity, and innovation.
+4. Improve progressively, through 2030, global resource efficiency in consumption and production and endeavor to decouple economic growth from environmental degradation.
+5. By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value.
+6. By 2020, substantially reduce the proportion of youth not in employment, education, or training.
+7. Take immediate and effective measures to eradicate forced labor, end modern slavery and human trafficking, and secure the prohibition and elimination of the worst forms of child labor.
+8. Protect labor rights and promote safe and secure working environments for all workers, including migrant workers, in particular women migrants, and those in precarious employment.
+9. By 2030, devise and implement policies to promote sustainable tourism that creates jobs and promotes local culture and products.
+10. Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance, and financial services for all.
+11. Increase Aid for Trade support for developing countries, in particular least developed countries, including through the Enhanced Integrated Framework for Trade-related Technical Assistance to Least Developed Countries.
+12. By 2020, develop and operationalize a global strategy for youth employment and implement the Global Jobs Pact of the International Labour Organization.\n--------------------------------------------------\n\nQuestion: 10. What are the targets under Goal 9: Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation?\nAnswer: The targets under Goal 9: Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation are:
+
+1. Develop quality, reliable, sustainable, and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all.
+2. Promote inclusive and sustainable industrialization and significantly raise industry’s share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries.
+3. Increase the access of small-scale industrial and other enterprises, particularly in developing countries, to financial services, including affordable credit, and their integration into value chains and markets.
+4. By 2030, upgrade infrastructure and retrofit industries to make them sustainable, with increased resource-use efficiency and greater adoption of clean and environmentally sound technologies and industrial processes, with all countries taking action in accordance with their respective capabilities.
+5. Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including, by 2030, encouraging innovation and substantially increasing the number of research and development workers per 1 million people and public and private research and development spending.
+6. Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological, and technical support to African countries, least developed countries, landlocked developing countries, and small island developing States.
+7. Support domestic technology development, research, and innovation in developing countries, including by ensuring a conducive policy environment for industrial diversification and value addition to commodities.\n--------------------------------------------------\n\n
